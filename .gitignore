@@ -45,7 +45,7 @@ coverage/
 .cache/
 .eslintcache
 
-# Archivos opcionales de lock (solo si quieres ignorarlos, normalmente NO se ignoran)
+# Archivos opcionales de lock
 # package-lock.json
 # yarn.lock
 # pnpm-lock.yaml
